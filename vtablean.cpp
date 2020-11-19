@@ -1,5 +1,4 @@
-//Vtable Analyzer
-
+//To know the concept of vtable.
 using namespace std;
 
 #include<iostream>
